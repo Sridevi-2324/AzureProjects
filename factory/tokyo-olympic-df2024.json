@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-df2024",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93a25053-d3e9-4f69-bd22-f8ca7fce4a14",
+		"tenantId": "5c46d65d-ee5c-4513-8cd4-af98d15e6833"
+	}
+}
